@@ -3,7 +3,7 @@ import openpyxl
 import requests
 import json
 # 设置 DeepSeek API Key 与 URL
-API_KEY = "sk-da8664ca636d4d1ba9f1a823f4557a1c"
+API_KEY = ""
 API_URL = "https://api.deepseek.com/v1/chat/completions"
 
 # 常量定义（请根据实际情况修改）
